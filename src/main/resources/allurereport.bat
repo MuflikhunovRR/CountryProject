@@ -1,0 +1,1 @@
+allure serve D:\JAVA\Java_SRC\CountryCodeProject\target\allure-results
